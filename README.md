@@ -2,7 +2,7 @@
 
 [![Run on Repl.it](https://replit.com/badge/github/robertamanta/header-parser)](https://header-parser.robertamanta.repl.co)
 
-This is an application which returns user ip-address, browser preferred language and browser software details in json format.
+This is a simple application which returns user ip-address, browser preferred language and browser software details in json format.
 
 # Documentation
 
